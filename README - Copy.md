@@ -2,7 +2,7 @@
 
 Modul 1 : Thứ 3 ngày 2/3/2021
 
-* Hiểu rõ hơn phần nào về tư duy lập trình ( không làm được hết 4 bài ngày hôm nay )
+* Hiểu hơn phần nào về tư duy lập trình ( chưa  làm được hết 4 bài ngày hôm nay )
 * Biết cách thao tác Git
 
 * Biết về thuật toán là gì : thuật toán/giải thuật bao gồm các chỉ thị để giải quyết một vấn đề
