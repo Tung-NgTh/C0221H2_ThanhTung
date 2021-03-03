@@ -1,0 +1,36 @@
+Tổng hợp kiến thức buổi 4 :
+
+1.Thẻ HTML và thuộc tính
+* Thẻ HTML là tên gọi của các phần tử,được sử dụng để tạo lên 1 tài liệu HTML.
+* Thẻ HTML bao gồm tên thẻ đc đặt trong 2 dấu ngoặc nhọn.  
+
+* Thuộc tính :
+- Thuộc tính title dùng để định nghĩa tiêu đề của một thành phần HTML. Khi duyệt web, bạn di chuột tới thành phần nào của trang, 
+  một tooltip sẽ xuất hiện nếu bạn có khai báo thuộc tính title, nội dung chính là giá trị khi khai báo.
+- Thuộc tính href dùng để khai báo một liên kết trên trang web. Muốn khai báo địa chỉ đích của liên kết ta viết thêm thuộc tính href cho nó.
+- Thuộc tính width và height dùng để khai báo kích thước của đối tượng, như của hình ảnh chẳng hạn.
+
+2. Các thẻ tiêu đề h1,h2,h3,h4,h5,h6
+Thẻ  <h1> định nghĩ tiêu đề quan trọng nhất (nổi bật nhất, lớn nhất), các thẻ khác sẽ lần lượt được sử dụng các tiêu đề ít quan trọng hơn.
+Thẻ <h6> định nghĩa tiêu đề nhỏ nhất.
+
+3. Thẻ tạo đoạn văn bản
+   Thẻ <p>........</p> để định nghĩa một đoạn văn.
+
+4. Thẻ xuống dòng
+   Thẻ <br> định nghĩa xuống dòng.
+
+5. Thẻ tạo liên kết :
+   Dùng thẻ <a> để định nghĩa một liên kết
+   Dùng thuộc tính href để định nghĩa địa chỉ của liên kết
+   Dùng thuộc tính target để định nghĩa cách trình duyệt mở liên kết
+   Dùng thẻ <img> bên trong thẻ <a> để tạo liên kết bằng ảnh
+6. Thẻ hiển thị hình ảnh:
+   Dùng thẻ <img> để định nghĩa một hình ảnh
+   Dùng thuộc tính src để định nghĩa URL của hình ảnh
+   Dùng thuộc tính alt để định nghĩa dòng chữ thay thế cho ảnh khi ảnh không hiển thị được
+   Dùng thuộc tính width và height để định nghĩa kích thước của ảnh
+
+7. Thẻ ol,ul,li
+
+8. Chú thích trong HTML
