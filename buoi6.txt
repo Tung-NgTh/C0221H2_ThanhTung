@@ -1,0 +1,29 @@
+Modul 1 - Buổi 6 - Bài 5: HTML Form &amp;Table
+Các kiến thức học được 05/03/2021
+1. HTML Form :
+*Form: - là cơ chế cho phép người dùng nhập dữ liệu và gửi về sever
+       - gồm : form đăng nhập,đăng ký,tìm kiếm......	
+       - 1 form có thể bao gồm nhiều trường nhập dữ liệu khác nhau
+       - Thuộc tính: + action có giá trị là 1 URL,là nơi dữ liệu đc gửi đến
+		     + name quy định tên của form,sau có thể đc dùng để truy xuất đến các giá trị trong form.
+*Thẻ : 
+         + <form> đc sử dụng để tạo form
+	 + <fieldset> và <legend> đc sử dụng để nhóm  các trường dữ liệu trong form
+         - <input> :
+	    + đc dùng để tạo trường nhập dữ liệu
+	    + Thuộc tính :   + name :tên của trường dữ liệu
+		        + disabled : vô hiệu hóa trường dữ liệu
+		        + value : giá trị trường dữ liệu
+			+ type : loại trường dữ liệu (text,password,email,.....)
+* Phương thức POST và GET
+	-POST : + Dữ liệu đc gửi k hiện thị trên thanh địa chỉ trình duyệt
+		+ k hạn chế dung lượng gửi đi
+	-GET  : + ngược lại của POST
+		+ gửi dữ liệu nhỏ
+2. Table
+	- <table>: Định nghĩa một bảng
+	- <tr>: Định nghĩa một dòng
+	- <th>: Định nghĩa một ô tiêu đề
+	- <td>: Định nghĩa một ô dữ liệu.
+	
+	
